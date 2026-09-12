@@ -47,4 +47,4 @@ Contributing where I can, learning from engineers who build excellent software, 
 
 ## Connect
 
-[LinkedIn]((https://www.linkedin.com/in/priyadharshini-balasundaram-24bb5a18b/))
+https://www.linkedin.com/in/priyadharshini-balasundaram-24bb5a18b/
